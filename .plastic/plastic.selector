@@ -1,0 +1,4 @@
+repository "MagaraJam5@MagaraJam5@cloud"
+  path "/"
+    br "/main"
+    co "/main"
